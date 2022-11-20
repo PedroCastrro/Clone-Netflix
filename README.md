@@ -16,7 +16,7 @@ A aplicação consiste em um  clone da Striming famosa da Netflix, feita com HTM
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / Jquery / 
+- HTML / CSS / Jquery 
 
 ## Implantação em produção
 - Front end web: Netlify
